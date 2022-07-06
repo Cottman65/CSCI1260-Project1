@@ -1,0 +1,12 @@
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\bin\Debug\net6.0\Project1Lib.deps.json
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\bin\Debug\net6.0\Project1Lib.dll
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\bin\Debug\net6.0\Project1Lib.pdb
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\Project1Lib.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\Project1Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\Project1Lib.AssemblyInfoInputs.cache
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\Project1Lib.AssemblyInfo.cs
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\Project1Lib.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\Project1Lib.dll
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\refint\Project1Lib.dll
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\Project1Lib.pdb
+C:\Users\kelly\source\repos\Project1Sol\Project1Lib\obj\Debug\net6.0\ref\Project1Lib.dll

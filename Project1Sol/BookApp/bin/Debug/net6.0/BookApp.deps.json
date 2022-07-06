@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BookApp/1.0.0": {
+        "dependencies": {
+          "Project1Lib": "1.0.0"
+        },
+        "runtime": {
+          "BookApp.dll": {}
+        }
+      },
+      "Project1Lib/1.0.0": {
+        "runtime": {
+          "Project1Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project1Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
